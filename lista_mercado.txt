@@ -3,4 +3,6 @@ feijão
 quinoa
 pimenta preta (grão) 
 páprica defumada
->>>>>>> 638765e743a25d9aeeba843e67d6c6739b462c13
+Quinoa? Macarrão tinha? rss..
+Pipoca
+Biscoito recheado. (Adicionei esse item na branch chamada NovaBranch).
